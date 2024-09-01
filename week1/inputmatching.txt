@@ -1,0 +1,5 @@
+4 3
+A a
+B a b
+a A B
+b B
